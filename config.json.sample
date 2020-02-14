@@ -1,0 +1,11 @@
+{
+  "static_ips": [
+    "192.168.0.1/16",
+    "123.45.79.1/32"
+  ],
+  "dynamic_addresses":[
+    "google.com",
+    "mycompany.net"
+  ],
+  "whitelist_path": "/mnt/user/appdata/whitelists/"
+}
